@@ -1,0 +1,22 @@
+End goal = Have a system that enables me to take notes on the linux chromebook with a slow internet connection but great battery life, and upload them to remnote on the windows machine, which has a fast internet connection but a good battery life.
+
+STEPS = Take notes on chromebook terminal => Transfer to online repo => Redownload on windows machine and automate upload to remonote => Delete text files
+
+OF NOTE:
+	Remote converts .txt files to PDFs by default
+	
+THINGS TO TRY:
+	Student free offers for remote repo hosting [check]
+
+GITHUB:
+	Public repos (Don't really want public notes all out there)
+BITBUCKET:
+	Unlimited private repos as a student
+
+REVISED PLAN:
+
+	Take notes on chromebook, git push to bitbucket, convert to remnote rems
+
+WHAT DO I NEED TO MAKE:
+
+	Script that reads text files, and then  
